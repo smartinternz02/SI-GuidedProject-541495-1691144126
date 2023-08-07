@@ -16,6 +16,6 @@ spec:
    spec:
     containers:
       - name: std-app
-        image: mahidhar23/studentassignment:1.0
+        image: p10raveen/studentassignment:1.0
         ports:
         - containerPort: 5000
